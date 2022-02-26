@@ -20,7 +20,7 @@ RecNS is a general negative sampling method designed with two sampling strategie
 ## Training
 ### Training on the existing datasets
 #### For PinSage:
-You can use ```$ ./experiments/***.sh``` to train RecNS model. For example, if you want to train on the Zhihu dataset, you can run ```$ ./experiments/graphsage/recns_zhihu.sh ``` to train RecNS model.
+You can use ```$ ./experiments/***.sh``` to train RecNS model. For example, if you want to train on the Zhihu dataset, you can run ```$ ./experiments/recns_zhihu.sh ``` to train RecNS model.
 
 #### For LightGCN:
 You can use ```$ ./***.sh``` to train RecNS model. For example, if you want to train on the Zhihu dataset, you can run ```$ ./train.sh``` to train RecNS model.
