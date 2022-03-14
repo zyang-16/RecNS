@@ -27,4 +27,13 @@ You can use ```$ ./***.sh``` to train RecNS model. For example, if you want to t
 
 
 ## Cite
-
+Please cite our paper if you find this code useful for your research:
+```
+@article{yang2022region,
+  title={Region or Global A Principle for Negative Sampling in Graph-based Recommendation},
+  author={Yang, Zhen and Ding, Ming and Zou, Xu and Tang, Jie and Xu, Bin and Zhou, Chang and Yang, Hongxia},
+  journal={IEEE Transactions on Knowledge and Data Engineering},
+  year={2022},
+  publisher={IEEE}
+}
+```
