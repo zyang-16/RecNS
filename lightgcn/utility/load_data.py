@@ -272,7 +272,7 @@ class Data(object):
                     pos_batch.append(pos_i_id)
             return pos_batch
         
-        
+        # recns
         def ns_recns_o_1(user_batch, item_batch, K_Candidates):
             batch_neg = []
             batch_neg_exposed = []
